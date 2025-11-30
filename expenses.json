@@ -1,0 +1,38 @@
+[
+  {
+    "amount": 3000,
+    "category": "Snacks",
+    "description": "Chips",
+    "date": "2025-02-10"
+  },
+  {
+    "amount": 8000,
+    "category": "Groceries",
+    "description": "Vegetables",
+    "date": "2025-02-11"
+  },
+  {
+    "amount": 10000,
+    "category": "food",
+    "description": "pasta",
+    "date": "2025-01-01"
+  },
+  {
+    "amount": 200000,
+    "category": "food",
+    "description": "ghorme sabzi",
+    "date": "2025-01-01"
+  },
+  {
+    "amount": 10000,
+    "category": "food",
+    "description": "pizza",
+    "date": "2025-01-05"
+  },
+  {
+    "amount": 10000,
+    "category": "food",
+    "description": "pizza",
+    "date": "2025-01-06"
+  }
+]
